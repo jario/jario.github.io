@@ -1,6 +1,8 @@
 # JARIO
 Jario estudou física, química, pedagogia e gestão ambiental - é mestre em yoga e ministra aulas de programação em Aplicativos Mobile.
 
+>> Curso QUALIFICADF acesse o repositorio [qualificadf.github.io](https://github.com/jario/qualificadf.github.io) ou no link [CLICK](https://dev.sheet.pt)
+
 ## Agro Ambiental Geoespacial
 
 * Presta serviços em georreferenciamento de imóveis rurais (SIGEF/INCRA-CFTA). 
