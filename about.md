@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 Esta conta foi criada para suporte as demais contas em Play Google, Apple Store, sistemas etc, e outras contas de autenticação. 
